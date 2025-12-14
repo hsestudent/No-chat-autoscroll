@@ -1,0 +1,18 @@
+{
+    "id": "no-chat-autoscroll",
+    "title": "No Chat Autoscroll",
+    "description": "Модуль для умной прокрутки чата Foundry VTT",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "authors": [
+        {
+            "name": "Tasselhoff & Gemini Flash 2.5"
+        }
+    ],
+    "esmodules": [
+        "module.js"
+    ]
+}
